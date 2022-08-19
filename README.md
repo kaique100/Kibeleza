@@ -1,4 +1,4 @@
 # Ki-Beleza
 Projeto desenvolvido durante as aulas no SENAC.
 
-![](kebeleza.gif)
+![kibeleza](kibeleza.gif?raw=true "kibeleza")
